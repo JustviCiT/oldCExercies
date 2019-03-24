@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1498681943 source:d:\documenti\cc++\es2_2017\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
